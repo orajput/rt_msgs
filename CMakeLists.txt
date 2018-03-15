@@ -50,6 +50,7 @@ add_message_files(
 	msg
   FILES
   TransformRTStamped.msg
+  TransformRTStampedWithHeader.msg
 )
 
 ## Generate services in the 'srv' folder
